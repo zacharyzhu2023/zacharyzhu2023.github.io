@@ -6,7 +6,7 @@ layout: feed
 
 	<title>Zachary Zhu's Blog</title>
 	<link href="http://zacharyzhu2023.github.io/blog/atom.xml" rel="self"/>
-	<link href="http://zaharyzhu2023.github.io/blog"/>
+	<link href="http://zacharyzhu2023.github.io/blog"/>
 	<updated>{{ site.time | date_to_xmlschema }}</updated>
 	<id>http://zacharyzhu2023.github.io/blog</id>
 	<author>
